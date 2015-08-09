@@ -4,7 +4,7 @@ package com.luxoft.vgalunov;
  * Task3. Given 3 variables - A,B,C. Replace their values - A to C, C to B, B to
  * A.
  *
- * @author sqr
+ * @author vgalunov
  */
 public class Task3 {
 
